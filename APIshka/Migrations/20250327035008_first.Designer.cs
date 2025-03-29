@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace APIshka.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250327005027_first")]
+    [Migration("20250327035008_first")]
     partial class first
     {
         /// <inheritdoc />
